@@ -21,7 +21,7 @@ a:active, a:focus, a:visited{
 	text-align: center;
 	color: #fff;
 	height: 100vh;
-	background: #000 url(../img/main-bg.jpg) center center no-repeat;
+	background: #000 url(../img/main-bg5.jpg) center center no-repeat;
 }
 .main-overlay {
 	position: absolute;
@@ -105,7 +105,7 @@ z-index: 2;
 }
                            /*Секция - подвал*/
 .footer{
-	background-color: #000000;
+	background-color: #0c1829;
 	color: #fff;
 	text-align:center;
 	padding: 3rem 0;
